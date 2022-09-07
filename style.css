@@ -1,0 +1,50 @@
+  .heading
+  {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(158, 163, 235);
+  }
+  .heading_div
+  {
+    float: none ; 
+    background: white ; 
+    padding: 10px; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+
+  h5{
+    background: rgb(116, 201, 116);
+    padding: 10px; 
+    border-radius: 20px; 
+    color: white;
+    font-size: 18px;
+  }
+  b{
+    background: rgb(126, 107, 238);
+    padding: 10px; 
+    border-radius: 20px; 
+    color: white;
+    font-size: 18px;
+  }
+
+  h4{
+    background: rgb(201, 116, 116);
+    padding: 10px; 
+    border-radius: 20px; 
+    color: white;
+    font-size: 18px;
+    float: center;
+  }
+ 
+  .copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(72, 202, 235);
+    line-height: 3;
+    text-align: center;
+ }
